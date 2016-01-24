@@ -1,0 +1,9 @@
+###
+lft ..#
+left ..#
+forward ###
+please turn right ###
+please-turn-right ###
+rght ###
+right ###
+quit
